@@ -1,6 +1,6 @@
-background {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: lightslategray;
+body {
+  font-family: Verdana, Tahoma, sans-serif;
+  background-color: lavender;
 }
 h1 {
   text-align: center;
