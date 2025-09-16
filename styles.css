@@ -4,7 +4,51 @@ body {
 }
 h1 {
   text-align: center;
+  font-size: 36px;
+}
+h2 {
+  margin: 0px 0px 10px;
+  font-size: 28px;
+}
+select {
+  display: block;
+  width: 100%;
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 4px;
+}
+.container {
+  max-width: 600px;
+  margin: 60px auto;
+  background-color: whitesmoke;
+  padding: 60px;
+  box-shadow: 0px 7px 29px 0px (100, 100, 111, 0.2);
+  border-radius: 10px;
+}
+.city {
+  display: flex;
+  margin: 20px 0px;
+  justify-content: space-between;
+  padding: 30px 0px;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.2);
+}
+.city:last-child {
+  border: none;
+}
+.time {
+  font-size: 48px;
+  font-weight: bold;
+}
+.time small {
+  font-size: 24px;
+  vertical-align: middle;
+  line-height: 36px;
+}
+.date {
+  opacity: 0.7;
 }
 footer {
+  font-size: 14px;
   text-align: center;
+  color: slategray;
 }
