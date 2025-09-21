@@ -43,7 +43,7 @@ function updateCity(event) {
     "A"
   )}</small></div>
   </div>
-  <a href="/">Home</a>`;
+  <a href="/">All Cities</a>`;
 }
 
 updateTime();
