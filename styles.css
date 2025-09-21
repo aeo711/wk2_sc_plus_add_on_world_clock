@@ -52,3 +52,6 @@ footer {
   text-align: center;
   color: slategray;
 }
+a {
+  color: rgba(165, 91, 165, 0.788);
+}
